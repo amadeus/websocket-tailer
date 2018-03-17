@@ -1,0 +1,15 @@
+{
+  "name": "websocket-tailer",
+  "author": "Amadeus Demarzi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "tail": "^1.2.3",
+    "websocket": "^1.0.25"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
